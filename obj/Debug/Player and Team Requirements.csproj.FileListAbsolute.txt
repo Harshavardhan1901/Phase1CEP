@@ -1,0 +1,8 @@
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe.config
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.exe
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\bin\Debug\Player and Team Requirements.pdb
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.AssemblyReference.cache
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.SuggestedBindingRedirects.cache
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.csproj.CoreCompileInputs.cache
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.exe
+D:\M\OSL\Course End Project\Player and Team Requirements\Player and Team Requirements\obj\Debug\Player and Team Requirements.pdb
